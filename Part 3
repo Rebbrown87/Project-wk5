@@ -1,0 +1,8 @@
+Part 3 Critical Analysis
+
+1. ETHICS/BIAS
+- The bias data will have a significant impact as it could predict that the majority of the population are being recommended for something while a minority (for instance, race is unbalanced) and could impact resource allocation to a minority group, for instance, women could be the majority being recommended or the hospital being favored for priority which could impact the level of care they would receive.
+- A strategy that is recommended for this bias is that the AI algorithm needs to go for an audit regularly in order to ensure it is model is fair and has integrity in its predictions.
+
+2. TRADE-OFFS
+- Model interpretability is very important in the health care system as it will aid health professionals with the ability to understand data entered information predicted from AI. AI models, however, models like neural networks lack interpretability however are highly accurate compared to a support vector machine that produces basic information which is not in depth or highly accurate.
