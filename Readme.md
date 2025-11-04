@@ -73,6 +73,7 @@ Predict 30-day hospital readmission risk to support discharge planning and reduc
 
 ## 🧠 Authors
 - [Likalani Shadrack
+- 
 Naomi lwambululo)]
 - PLP Academy Cohort 2025 July
 
@@ -80,4 +81,5 @@ Naomi lwambululo)]
 
 ## 📝 License
 MIT License — feel free to fork, adapt, and build responsibly.
+
 
